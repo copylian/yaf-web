@@ -2,7 +2,7 @@
 /*
  * 邮件发送类
  * Sendmail::send($html, $email)
- * url http://github.com/whaten/yaf-php
+ * url http://github.com/whaten
  * 欢迎大家扩展回馈
  */
 final class Sendmail {
