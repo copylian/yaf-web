@@ -1,4 +1,4 @@
-##qsyaf (quick start yaf)
+##yaf-php
 
 
 ###简介
