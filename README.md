@@ -37,7 +37,7 @@ location / {
 重启你的web服务器，输入地址后看到 `Thanks a lot` 就ok了
 
 ###最后
-我们会不断丰富qsyaf的内容，希望通过qsyaf能让你对yaf有一个美好的开始。
+我们会不断丰富yaf-web的内容，希望通过yaf-web能让你对yaf有一个美好的开始。
 
 欢迎大家贡献自己的代码。
 
