@@ -9,7 +9,7 @@
 ###使用方法
 ####首先你得安装yaf，yaf官网请 [点击这里](http://www.yafdev.com)
 ####第一步
-下载并解压本项目代码到你的网站目录中 [点击下载](http://github.com/whaten/qsyaf/archive/master.zip)
+git到你本地或者下载并解压本项目代码到你的网站目录中 [点击下载](http://github.com/1209/yaf-web/archive/master.zip)
 ####第二步
 添加对应的rewrite规则
 ####apache
@@ -37,8 +37,8 @@ location / {
 重启你的web服务器，输入地址后看到 `Thanks a lot` 就ok了
 
 ###最后
-我们会不断丰富yaf-web的内容，希望通过yaf-web能让你对yaf有一个美好的开始。
+我会不断丰富yaf-web的内容，希望通过yaf-web能让你对yaf有一个美好的开始。
 
-欢迎大家贡献自己的代码。
+当然也欢迎大家贡献自己的代码。
 
-####[About me](http://whaten.github.io)
+####[关于我](http://1209.github.io)
