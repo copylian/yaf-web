@@ -7,7 +7,7 @@
 * 我们还提供了一些常用工具库，让你根本停不下来
 
 ###使用方法
-####首先你得安装yaf，yaf官网 www.yafdev.com
+####首先你得安装yaf，yaf官网 yafdev.com
 ####第一步
 git到你本地或者下载并解压本项目代码到你的网站目录中 [点击下载](http://github.com/1209/yaf-web/archive/master.zip)
 ####第二步
